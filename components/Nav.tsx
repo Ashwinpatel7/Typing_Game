@@ -7,7 +7,7 @@ export const Nav = memo(function Nav() {
     <nav className={styles.nav}>
       <div className={styles.appName}>Fast Type</div>
       <a
-        href="https://github.com/Sahil-Shadwal/FastType"
+        href="https://github.com/Ashwinpatel7/Typing_Game.git"
         target="_blank"
         rel="noreferrer"
         className={styles.github}
@@ -17,7 +17,7 @@ export const Nav = memo(function Nav() {
       </a>
 
       <a
-        href="https://x.com/sahil_shadwal"
+        href="https://x.com/AshwinP51434622"
         target="_blank"
         rel="noreferrer"
         className={styles.twitter}
